@@ -8,7 +8,7 @@
 - 🎓 Studied Comp-Sci at [THA](https://www.tha.de/)
 - 👨🏻‍💻 Working as Software Engineer at [IBV](https://www.ibv-augsburg.de/)
 - 🚀 Building rockets at [AuxSpace e.V.](https://auxspace.de/)
-- 📚 I'm currently learning Zephyr, FreeRTOS and Linux RT
+- 📚 I'm currently learning [Embassy](https://embassy.dev/), [Zephyr](https://zephyrproject.org/) and [Linux RT](https://wiki.linuxfoundation.org/realtime/start)
 - ⚡ In my free time I like to dabble with microcontrollers and custom PCBs
 
 <div align="right">
