@@ -13,7 +13,7 @@
 
 <div align="right">
   <a href="https://visitcount.itsvg.in" target="_blank">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=stephanmaxi&icon=0&color=6" />
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maxistephan.maxistephan&left_color=rgb(36,39,58)&right_color=rgb(138,173,244)" />
   </a>
 </div>
 
