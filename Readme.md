@@ -5,11 +5,11 @@
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/80758996"  />
 
 - 🌐 Augsburg, Germany
-- 🎓 Studied Comp-Sci at [THA](https://www.tha.de/)
-- 👨🏻‍💻 Working as Software Engineer at [IBV](https://www.ibv-augsburg.de/)
-- 🚀 Building rockets at [AuxSpace e.V.](https://auxspace.de/)
-- 📚 I'm currently learning [Embassy](https://embassy.dev/), [Zephyr](https://zephyrproject.org/) and [Linux RT](https://wiki.linuxfoundation.org/realtime/start)
-- ⚡ In my free time I like to dabble with microcontrollers and custom PCBs
+- 🎓 Studied Computer-Science at [THA](https://www.tha.de/)
+- 👨🏻‍💻 Working as a Software Engineer at [IBV](https://www.ibv-augsburg.de/)
+- 🚀 Building rockets at [Auxspace e.V.](https://auxspace.de/)
+- 📚 I'm currently learning [FreeRTOS](https://www.freertos.org/), [Zephyr](https://zephyrproject.org/) and [Linux RT](https://wiki.linuxfoundation.org/realtime/start)
+- ⚡ In my free time I like to dabble with microcontrollers and build PCBs
 
 <div align="right">
   <a href="https://visitcount.itsvg.in" target="_blank">
