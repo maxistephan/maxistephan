@@ -47,8 +47,9 @@
   </a>
 </div>
 
-# 📊 GitHub Stats
+## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=stephanmaxi&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stephanmaxi&theme=catppuccin_mocha&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanmaxi&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=maxistephan&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" height="200" alt="stats graph" align="left" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanmaxi&theme=catppuccin_mocha&hide_border=false" height="200" alt="stats graph" align="right" />
+</div>
